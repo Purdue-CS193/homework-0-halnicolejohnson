@@ -2,7 +2,7 @@
 My favorite things about CS193:
 - No exams
 - Meets 1 time per week
-- Taught by CS sophomores
+- Taught by very kind/understanding CS students
 - Provides useful resources applicable to CS180 and future CS courses at Purdue
 
 
